@@ -1,0 +1,7 @@
+C:\Users\yahya\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.exe.config
+C:\Users\yahya\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.exe
+C:\Users\yahya\source\repos\ArabaYarisi\ArabaYarisi\bin\Debug\ArabaYarisi.pdb
+C:\Users\yahya\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.csprojAssemblyReference.cache
+C:\Users\yahya\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.csproj.CoreCompileInputs.cache
+C:\Users\yahya\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.exe
+C:\Users\yahya\source\repos\ArabaYarisi\ArabaYarisi\obj\Debug\ArabaYarisi.pdb
